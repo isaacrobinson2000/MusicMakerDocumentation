@@ -5,7 +5,7 @@ The circuit schematics included in this repo will allow students
 to create a "Music Player". This music player will accept sound 
 stored in 8-bit samples and play it through a speaker at 26kHz. 
 The ability to play audio samples will allow for 
-flexability in the instruments students make.
+flexibility in the instruments students make.
 
 ### The Schematic
 ![Speaker Driver Schematic](AudioPlayer_schem.svg)
@@ -18,7 +18,7 @@ flexability in the instruments students make.
  - 1 ICL7660 (Generates -5V for Op-Amp)
  - 9 2kΩ Resistors
  - 7 1kΩ Resistors (Might include 1 extra eventually).
- - 1 PN2222A or equivilant NPN Transistor
+ - 1 PN2222A or equivalent NPN Transistor
  - 1 OPA350 Op-Amp
  - 1 Speaker (I got these ones from [here](https://www.amazon.com/Yootop-Internal-Magnet-Loudspeaker-Speaker/dp/B07FMR5JGX/ref=sr_1_4?dchild=1&keywords=arduino+speaker&qid=1598312315&sr=8-4)).
    Note these can't play lower frequencies, so if a student wants to make a Bass-Like instrument they will need something different.
